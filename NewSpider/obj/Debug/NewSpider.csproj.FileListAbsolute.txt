@@ -1,0 +1,5 @@
+E:\Project\NETProject\NewSpider\NewSpider\bin\Debug\NewSpider.dll
+E:\Project\NETProject\NewSpider\NewSpider\bin\Debug\NewSpider.pdb
+E:\Project\NETProject\NewSpider\NewSpider\obj\Debug\NewSpider.csprojResolveAssemblyReference.cache
+E:\Project\NETProject\NewSpider\NewSpider\obj\Debug\NewSpider.dll
+E:\Project\NETProject\NewSpider\NewSpider\obj\Debug\NewSpider.pdb

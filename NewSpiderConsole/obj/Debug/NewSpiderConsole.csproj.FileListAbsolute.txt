@@ -1,0 +1,8 @@
+E:\Project\NETProject\NewSpider\NewSpiderConsole\bin\Debug\NewSpiderConsole.exe.config
+E:\Project\NETProject\NewSpider\NewSpiderConsole\bin\Debug\NewSpiderConsole.exe
+E:\Project\NETProject\NewSpider\NewSpiderConsole\bin\Debug\NewSpiderConsole.pdb
+E:\Project\NETProject\NewSpider\NewSpiderConsole\bin\Debug\NewSpider.dll
+E:\Project\NETProject\NewSpider\NewSpiderConsole\bin\Debug\NewSpider.pdb
+E:\Project\NETProject\NewSpider\NewSpiderConsole\obj\Debug\NewSpiderConsole.csprojResolveAssemblyReference.cache
+E:\Project\NETProject\NewSpider\NewSpiderConsole\obj\Debug\NewSpiderConsole.exe
+E:\Project\NETProject\NewSpider\NewSpiderConsole\obj\Debug\NewSpiderConsole.pdb
