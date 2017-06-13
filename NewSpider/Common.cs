@@ -16,8 +16,6 @@ namespace NewSpider
         {
             try
             {
-
-
                 NewSpiderConfig config = NewSpiderConfig.Setting;
                 //记录日志
                 if (config != null)
@@ -44,6 +42,11 @@ namespace NewSpider
                         }
                         WriteLog(path, "NewSpider" + DateTime.Now.ToString("yyyyMMdd") + ".txt", logContent);
                     }
+                }
+                else
+                {
+                    string path = System.AppDomain.CurrentDomain.BaseDirectory.ToString() + "/Log";
+                    WriteLog(path, "NewSpider" + DateTime.Now.ToString("yyyyMMdd") + ".txt", logContent);
                 }
             }
             catch (Exception e)
